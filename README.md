@@ -1,4 +1,4 @@
-# Test11-20
+# Модульное тестирование
 
 <b>Окно регистрации</b>
 
@@ -16,3 +16,20 @@
 <h>Результат работы тестов</h>
 
 ![image](https://user-images.githubusercontent.com/101355738/229172663-b46643c0-2c05-4142-983e-1a77603aaf39.png)
+
+<b>Калькулятор</b>
+
+![image](https://user-images.githubusercontent.com/101355738/229173043-4b934444-1b2b-4c65-9f9f-94e29e08a247.png)
+
+<h>Некоторые из тестов функций калькулятора</h>
+
+![image](https://user-images.githubusercontent.com/101355738/229173227-6bc0a16c-61c1-423f-a844-28c4488bc104.png)
+![image](https://user-images.githubusercontent.com/101355738/229173240-7170cf6f-340d-4e85-971d-4cd076c0748e.png)
+![image](https://user-images.githubusercontent.com/101355738/229173252-40e2e2e9-d568-41bc-9b66-237a689dfb7b.png)
+![image](https://user-images.githubusercontent.com/101355738/229173258-b6c747eb-8a4c-45c6-9d6c-fa3c699e8348.png)
+![image](https://user-images.githubusercontent.com/101355738/229173275-577b4d86-7e8d-4763-88bb-1321e273d7ef.png)
+![image](https://user-images.githubusercontent.com/101355738/229173291-86aaa188-8e83-4127-8dbc-68f01567177b.png)
+
+<h>Результат работы тестов</h>
+
+![image](https://user-images.githubusercontent.com/101355738/229173335-a78bcc8a-6d14-4593-af54-263ac0666806.png)
